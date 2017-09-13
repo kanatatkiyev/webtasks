@@ -1,0 +1,90 @@
+a{
+
+}
+.image11{
+	margin-top: 12px;
+	margin-left: 10px;
+	float:left;
+	width:90px;
+	height: 70px;
+}
+.image22{
+	margin-top: 12px;
+	margin-left: 10px;
+	float:left;
+	width:90px;
+	height: 70px;
+}
+.image33{
+	margin-top: 12px;
+	margin-left: 10px;
+	float:left;
+	width:90px;
+	height: 70px;
+}
+.Cars{
+	font-size: 20px;
+	color:green;
+}
+.Moto{
+	font-size: 20px;
+	color:green;
+}
+.Trucks{
+	font-size: 20px;
+	color:green;
+}
+.item{
+	height: 100px;
+	margin-top: 10px;
+	width: 500px;
+	border:1px solid red;
+	border-radius: 10px;
+}
+.item2{
+	height: 100px;
+	margin-top: 10px;
+	width:500px;
+	border:1px solid red;
+	border-radius: 10px;
+
+}
+.item3{
+	height: 100px;
+	margin-top: 10px;
+	width:500px;
+	border:1px solid red;
+	border-radius: 10px;
+}
+.image1{
+	margin-top: 5px;
+}
+a{
+	text-decoration: none;
+}
+.title{
+	font-size: 25px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.description{
+	font-size: 18px;
+	margin-left: 10px;
+}
+.attributes{
+	font-size: 18px;
+	margin-left: 10px;
+}
+.main_body{
+	margin-left: 100px;
+}
+.text_for{
+	font-size: 18px;
+	font-weight: bold;
+}
+.city{
+	font-weight: bold;
+}
+.price{
+	background-color: #FFDDDD;
+}
