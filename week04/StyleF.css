@@ -1,0 +1,24 @@
+.note{
+	text-align: center;
+	padding-top:5px; 
+	color:black;
+	font-weight: bold;
+
+}
+#overlay{
+	position: fixed;
+	background-color: red;
+	border:3px solid yellow;
+	width:200px;
+	height: 200px;
+	margin-left: 1120px;
+	margin-top: 448px;
+	}
+.overlaycontent{
+	background-color: red;
+	
+}
+img{
+	margin-top: 10px;
+	margin-left: 23px;
+}
